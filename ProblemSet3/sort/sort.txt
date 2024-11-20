@@ -1,0 +1,18 @@
+sort1 uses: Bubble sort
+
+How do you know?: most
+
+sort2 uses: Merge sort
+
+How do you know?: smallest
+
+sort3 uses: Selection sort
+
+How do you know?: medium
+
+
+random sort1 0.087 sort2 0.041 sort3 0.072
+             6.601       1.220       3.240
+
+reversed sort1 0.071 sort2 0.036 sort3 0.056
+               5.834       1.246       3.451
