@@ -36,5 +36,10 @@
 - [x] runoff
 - [ ] tideman
 
+### Week 4 Memory
+- [x] volume
+- [x] filter-less
+- [ ] filter-more
+
 ## 学习时长
 2024.11.18 - 至今
