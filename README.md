@@ -47,5 +47,10 @@
 - [x] inheritance
 - [x] speller
 
+### Week 6 Python
+- [x] hello
+- [x] mario-less
+- [x] mario-more
+
 ## 学习时长
 2024.11.18 - 至今
