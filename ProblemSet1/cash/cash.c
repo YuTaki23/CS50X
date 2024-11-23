@@ -36,7 +36,7 @@ int calculate_nums(int cent, int nums) {
     int result = 0;
     while (cent >= nums) {
         result++;
-        cent -= 25;
+        cent -= nums;
     }
     return result;
 }
