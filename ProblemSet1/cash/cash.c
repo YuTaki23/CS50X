@@ -32,7 +32,7 @@ int main() {
     return 0;
 }
 
-int calcuate_nums(int cent, int nums) {
+int calculate_nums(int cent, int nums) {
     int result = 0;
     while (cent >= nums) {
         result++;
