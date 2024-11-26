@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
     }
     // 命令行参数必须为数字
     else if (!only_digit(argv[1])) {
-        printf("Usage: ./caesqr key\n");
+        printf("Usage: ./caesar key\n");
         return 1;
     }
 
