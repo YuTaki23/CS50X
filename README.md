@@ -16,6 +16,19 @@
 
 以上，仅作为我的个人见解，如有不符，还请谅解。
 
+## 做题建议
+对于大陆用户，如果不使用特殊手段一般无法进入网站做题，故在此写下更适合大陆用户的做题建议。
+
+
+1. 如何打开[CS50](https://cs50.harvard.edu/x/2024/)？
+国内某加速器有加速**学术资源**的板块，实测用这个可以进入CS50官网
+
+2. 如何使用**codespace**？
+要使用codespace实际上就是使用GitHub，关于进入GitHub，网络上有许多教程，如
+- Watt Toolkit(原steam++)
+- [steamcommunity302](https://www.dogfight360.com/blog/686/)
+- 改host，如[github520](https://github.com/521xueweihan/GitHub520)
+
 ## 三、已结束题目
 
 ### Week 1 C
@@ -56,7 +69,13 @@
 - [x] readability
 - [ ] dna
 
+### Week 7 SQL
+- [x] songs
+- [x] movies
+- [ ] fiftyville
+
 ## 四、后记
+TODO
 
 ## 五、学习时长
 2024.11.18 - 至今
